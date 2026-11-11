@@ -1,0 +1,16 @@
+# Environments
+venv/
+.venv/
+env/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data & bulky local files
+data/
+*.nii.gz
+helloworld_work_dir/
+
